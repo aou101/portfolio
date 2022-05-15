@@ -15,7 +15,7 @@
 ## :arrow_forward: Contact
 - Email: wodnrdlgla@gmail.com
 - Github: https://github.com/juni998
-
+- Blog: https://bit.ly/3P3OMIB
 </br>
 
 ## :arrow_forward: Projects
