@@ -20,9 +20,10 @@
 
 ## :arrow_forward: Projects
 ### 1. [CoupenWeb](https://github.com/Junnyjun/CoupenWeb)
->고퀄리티 개발 컨텐츠 공유 서비스 (팀 프로젝트)  
+>CoupenWeb E-commerce (팀 프로젝트)  
 >개발 기간: 2021.04 ~ 2021.07  
 >참여 인원: 2명
+>
 >기술 스택:  
 >Java 11 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
 >MariaDB / Spring Security / Thymeleaf
