@@ -27,7 +27,7 @@
 >Java 11 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
 >MariaDB / Spring Security / Thymeleaf
 >  
->[프로젝트 상세 설명](https://github.com/Junnyjun/CoupenWeb) 참고
+>[프로젝트 상세 설명](https://github.com/juni998/CoupenWeb) 참고
 
 ---
 
