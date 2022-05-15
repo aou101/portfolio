@@ -19,7 +19,7 @@
 </br>
 
 ## :arrow_forward: Projects
-### 1. [CoupenWeb](https://github.com/Junnyjun/CoupenWeb)
+### 1. [CoupenWeb](https://github.com/juni998/CoupenWeb)
 >CoupenWeb E-commerce (팀 프로젝트)  
 >개발 기간: 2021.04 ~ 2021.07  
 >참여 인원: 2명
